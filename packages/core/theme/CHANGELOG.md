@@ -1,5 +1,19 @@
 # @nextui-org/theme
 
+## 2.2.10
+
+### Patch Changes
+
+- [#3217](https://github.com/nextui-org/nextui/pull/3217) [`9d6bcb580`](https://github.com/nextui-org/nextui/commit/9d6bcb580a7bde6ff846fdfb679ec6e0a16410e6) Thanks [@chirokas](https://github.com/chirokas)! - Fix skeleton overflow issue (#3214 #3670)
+
+- [#3691](https://github.com/nextui-org/nextui/pull/3691) [`3e06ef64c`](https://github.com/nextui-org/nextui/commit/3e06ef64cc5da30f7b2ab209d9d669e6ac8478ca) Thanks [@wingkwong](https://github.com/wingkwong)! - adjust modal position when keyboard appears (#2837)
+
+- [#2946](https://github.com/nextui-org/nextui/pull/2946) [`59ea6b745`](https://github.com/nextui-org/nextui/commit/59ea6b7457345b8b1f241143301b5a9bf81054e4) Thanks [@rockey2020](https://github.com/rockey2020)! - export default-layout in theme
+
+- [#3656](https://github.com/nextui-org/nextui/pull/3656) [`55c92981e`](https://github.com/nextui-org/nextui/commit/55c92981e009b1721e8288341402feb1ebec08f3) Thanks [@ameybh](https://github.com/ameybh)! - fixed arrow keys order when html has dir="rtl" (#3641, #3642)
+
+- [#3552](https://github.com/nextui-org/nextui/pull/3552) [`97f233b34`](https://github.com/nextui-org/nextui/commit/97f233b346e07c766fb25a2ca16a78d4aa8ce2fe) Thanks [@awesome-pro](https://github.com/awesome-pro)! - fixed the double click need in chrome for checkbox, switch and radiobuttons (#3528)
+
 ## 2.2.9
 
 ### Patch Changes

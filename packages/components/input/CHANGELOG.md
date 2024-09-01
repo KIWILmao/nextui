@@ -1,5 +1,15 @@
 # @nextui-org/input
 
+## 2.2.5
+
+### Patch Changes
+
+- [#3533](https://github.com/nextui-org/nextui/pull/3533) [`a254abf53`](https://github.com/nextui-org/nextui/commit/a254abf53532d55ff3111df9b0e729330b0fa01e) Thanks [@AnthonyPaulO](https://github.com/AnthonyPaulO)! - syncs changes to ref value to internal (state) value (#3024, #3436)
+
+- Updated dependencies [[`f36df4362`](https://github.com/nextui-org/nextui/commit/f36df4362f572e8e233d4357f43600265cd5b8d5)]:
+  - @nextui-org/shared-utils@2.0.8
+  - @nextui-org/react-utils@2.0.17
+
 ## 2.2.4
 
 ### Patch Changes
